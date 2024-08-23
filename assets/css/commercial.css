@@ -1,0 +1,28 @@
+                            /* CENTENRING TITLE */
+    h3 {                         
+  text-align: center;
+   padding: 50px;
+}
+                                /* TITLE COLORING */
+    
+
+     h3 {
+  color: #0a65a0;
+  font-weight: bold;
+}        
+
+                                /* modal header coloring message sent */
+
+                      
+ .modal-header-1 {
+  height:50px;
+  background-color :rgb(66, 66, 244);
+  
+ }
+
+                          /* modal header coloring message failed */
+  .modal-header-2 {
+     height:50px;
+  background-color :red
+ }
+ 
