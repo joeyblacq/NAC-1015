@@ -1,0 +1,46 @@
+/* TOP  RATING AGENT COLOR */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  justify-content: center;
+  /* border:1 pk solid black; */
+}
+
+div table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+th, td {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+/* FONT COLOR WHITE  */
+th {
+color:white;
+}
+
+/* CENTERNING TOP RATING AGENT*/
+
+#table-section-title {
+text-align: center;
+color:blue;
+margin-left:1px;
+}
+
+/* CHANGING COLOR OF FIRST-CHILD */
+ tr {
+  background-color:WHITE; /* Default color, can be removed if not needed */
+ }
+
+thead tr:first-child {
+  background-color: #c02942;
+}
+
+
